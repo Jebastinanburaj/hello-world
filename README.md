@@ -1,2 +1,3 @@
 # hello-world
-Just small repository
+Am Jebastin here..
+Just trying to learn python..
